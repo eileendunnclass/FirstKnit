@@ -1,12 +1,15 @@
 ---
 title: "First Knit"
 author: "Your Name"
-output: 
+date: "`r Sys.Date()`"
+output:
+  word_document:
+    toc: true
+    toc_depth: '5'
   html_document:
     number_sections: true
     toc: true
     toc_depth: 5
-date: "`r Sys.Date()`"   
 ---
 
 # A Little Survey
