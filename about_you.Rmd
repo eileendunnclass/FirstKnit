@@ -1,15 +1,15 @@
 ---
 title: "First Knit"
-author: "Your Name"
-date: "`r Sys.Date()`"
+author: "Eileen Dunn"
+date: "Summer 2024"
 output:
-  word_document:
-    toc: true
-    toc_depth: '5'
   html_document:
     number_sections: true
     toc: true
     toc_depth: 5
+  word_document:
+    toc: true
+    toc_depth: '5'
 ---
 
 # A Little Survey
@@ -20,7 +20,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
+I attended Granada Hills Charter High School. I graduated in 2014. I like English class better. Math is pretty nice too. They are both not difficult for me. I feel like I excel in any subject as long as I do the work. I do best in English compared to Math. Just because English story telling is so fun and we get to talk about those topics.
 
      
 
@@ -29,15 +29,14 @@ Where did you attend High School, and did you graduate? Compare english class to
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
+I have a HP computer that has Windows 10. I'm at a 10 since I know how to to use certain microsoft programs and understand the basics. I have internet access at home. It is 9 out of 10 good only because I'm having issues with the outlets.  
    
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
-   
+Just use my first name Eileen. My buddies don't call me anything different.
  
 
 
@@ -47,7 +46,7 @@ What name do you prefer to be called by your classmates and instructor, if your 
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
-  
+I want to become an OBGYN which is someone who delievers babies in a safe manner. You have to have a doctorate degree and I think I will excel in that area. What intrests me in college is learning how to give good patient care. I'm trying to get my nursing degree.
    
  
 
@@ -58,8 +57,7 @@ What do you want to achieve in life?  What college subject do you think would be
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
 ### my answer     
-  
-   
+I have been to Costa Rica where my Mom orginated from. I want to go to Japan next. I wanted to get into the marines but I take medication so that disqualifies me.
   
 
 
@@ -71,7 +69,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
  
 
 ### my answer     
-  
+I need an A grade for nursing so it's easier to get into the program.
    
  
 
